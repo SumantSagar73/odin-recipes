@@ -53,4 +53,4 @@ odin-recipes/
 
 ## Live Demo
 
-Check out the live version of the project here: [https://github.com/SumantSagar73/odin-recipes](https://github.com/SumantSagar73/odin-recipess/)
+Check out the live version of the project here: [https://sumantsagar73.github.io/odin-recipes/](https://github.com/SumantSagar73/odin-recipess/)
